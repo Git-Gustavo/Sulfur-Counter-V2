@@ -32,3 +32,34 @@ Este programa está em constante desenvolvimento, e todas as contribuições sã
 Esperamos que este programa torne sua experiência de jogo em Rust mais eficiente e agradável. Divirta-se e boa sorte!
 
 [EN :us: ]
+
+Rust Game Resource Management Program
+This program is designed to simplify and streamline the resource and item management process in the game Rust. It allows players to quickly calculate the amount of resources needed to craft certain items, saving time and making the process more efficient.
+
+Key Features
+Recipe Selection: The program provides a list of available recipes to choose from, including items such as C4, Rockets, and Explosive Bullets.
+
+Automatic Calculation: Upon selecting a recipe and entering the desired quantity, the program automatically calculates the total amount of each required resource to produce the chosen item.
+
+Detailed Display: After calculation, the program displays a detailed list of the required resources, including gunpowder, sulfur, and other relevant resources for each item.
+
+How to Use
+Choose a Recipe: Upon starting the program, you will be presented with a list of available recipes. Choose the one you wish to craft by typing the corresponding name.
+
+Enter Quantity: Input the desired quantity of the item you wish to craft when prompted.
+
+View Results: After entering the quantity, the program will automatically calculate the total amount of resources needed and display a detailed list of these resources.
+
+Repeat or Exit: After viewing the results, you can choose to continue calculating other recipes or exit the program.
+
+Example Usage
+Suppose you want to craft 5 units of Rockets. You can follow these steps:
+
+Choose "rocket" from the list of recipes.
+Enter "5" when prompted for the desired quantity.
+The program will automatically calculate the total amount of gunpowder and sulfur needed to produce 5 Rockets.
+Examine the results and plan your in-game strategy based on the provided information.
+Contributions and Feedback
+This program is under constant development, and all contributions are welcome. If you have any suggestions for improvement or encounter any issues, feel free to open an issue or submit a pull request.
+
+We hope this program makes your Rust gaming experience more efficient and enjoyable. Have fun and good luck!
